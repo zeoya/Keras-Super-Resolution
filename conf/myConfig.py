@@ -3,10 +3,10 @@ import os
 
 # define the path to the input images we will be using to build the
 # training crops
-INPUT_IMAGES = "/home_expes/aa08110r/SrCNN/chap17/ukbench100"
+INPUT_IMAGES = "./ukbench100"
 
 # define the path to the temporary output directories
-BASE_OUTPUT = "/home_expes/aa08110r/SrCNN/chap17/output"
+BASE_OUTPUT = "./outputs"
 IMAGES = os.path.sep.join([BASE_OUTPUT, "images"])
 LABELS = os.path.sep.join([BASE_OUTPUT, "labels"])
 
