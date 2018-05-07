@@ -18,10 +18,9 @@ $ python resize.py -i lena.jpg -b base.png -o output.png #load lena image, upsac
 Python3, keras2.1 and CV-3 were being used for development on nv-GTX 1080.
 
 ## Results
+- For the input image *lena.jpg*, left is *base* image and right is super-resolved *output*.
 ![compare](./results.png)
-- for the input image lena.jpg, left is base image and right is super-resolved output
-
-![loss-plot](./outputs/loss.png)
+![loss-plot](./outputs/plot.png)
 
 
 
