@@ -20,8 +20,7 @@ Python3, keras2.1 and CV-3 were being used for development on nv-GTX 1080.
 ## Results
 - for the input image lena.jpg, left is base image and right is super-resolved output
 
-![loss-plot]
-(./outputs/plot.png)
+![loss-plot](./outputs/plot.png)
 
 
 
